@@ -9,5 +9,3 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 There are tons of reference code for the book on Github. BUT a suggestion is that do NOT look at my or any other's reference code until you finish yours. Practice your understanding of the book and analysis skills on your own.  
 
-I started this book from the beginning of 2020. Since I have two long-hour full-time jobs, the progress has been slow. I'm in the middle of Chapel 4 and I'll submit the Python code for Chapel 4 shortly. 
-
